@@ -5,6 +5,18 @@ An AI-powered voice agent built using **Python**, **Twilio**, and **Gemini API**
 This project demonstrates how to integrate telephony services with modern AI models to create automated voice assistants.
 
 ---
+<img width="1132" height="758" alt="Screenshot 2026-04-10 at 6 42 31 AM" src="https://github.com/user-attachments/assets/8608a913-9e7b-4abd-a3cd-dd1d9ca7d5d0" />
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Features
 
